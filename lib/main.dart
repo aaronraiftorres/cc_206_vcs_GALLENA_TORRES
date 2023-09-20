@@ -1,4 +1,5 @@
-//{Aaron Raif B. Torres}: {I'm going to use all my tools, my God-given ability, and make the best life I can with it.}
+//{Regino C. Gallena}: {Que será, será }
+//{Aaron Raif B. Torres}: {I'm going to use all my tools, my God-given ability, and make the best life I can with it.
 
 import 'package:flutter/material.dart';
 
